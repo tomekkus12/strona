@@ -97,7 +97,7 @@ article {
 article h3 {
     padding: 5px;
     text-align: center;
-    text-shadow: -1px -1px #0cc;
+    text-shadow: -1px -1px var(--kolor);
 }
 
 article kbd {
